@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 > **Nota Problema 1:** El dataset se descarga automáticamente desde HuggingFace al correr la primera celda. El archivo `data/nuevo_dataset.csv` se genera localmente tras el feature engineering.
 
-> **Nota Problema 2:** El dataset debe descargarse manualmente desde Kaggle y la ruta `BASE_PATH` en el notebook debe actualizarse a la ubicación local de las imágenes.
+> **Nota Problema 2:** El dataset de imágenes debe descargarse manualmente desde [Kaggle](https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset) y las imágenes deben colocarse en `regresion/data/Training/`. El archivo `train.csv` ya está incluido en el repositorio.
 
 ---
 
