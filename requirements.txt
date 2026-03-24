@@ -1,0 +1,14 @@
+datasets
+huggingface_hub
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+torch
+torchvision
+tensorflow
+ipykernel
+os
+re
